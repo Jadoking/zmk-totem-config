@@ -2,17 +2,7 @@
 
 This repository contains my ZMK configuration for the TOTEM split keyboard.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/docs/images/TOTEM_logo_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="/docs/images/TOTEM_logo_bright.svg">
-  <img alt="TOTEM logo font" src="/docs/images/TOTEM_logo_bright.svg">
-</picture>
-
 TOTEM is a 38-key column-staggered split keyboard that runs [ZMK](https://zmk.dev/) or [QMK](https://docs.qmk.fm/). It is designed for the SEEED XIAO BLE or RP2040.
-
-![TOTEM layout](/docs/images/TOTEM_layout.svg)
-
-<img width="911" height="1518" alt="TOTEM keymap preview" src="https://github.com/user-attachments/assets/cf64ad49-f5ff-4a50-a76b-4ff352f98e3f" />
 
 ## Flashing Firmware
 
